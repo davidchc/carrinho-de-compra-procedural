@@ -10,6 +10,7 @@ Na versão da videoaula, está tudo junto, e nessa nova versão está separado e
 Dentro da pasta functions, tem os arquivos:
 
 *functions/cart.php*
+
 *functions/product.php* 
 
 cart.php são funções do carrinho, como adicionar, alterar, excluir e exibir os produtos do carrinho.
